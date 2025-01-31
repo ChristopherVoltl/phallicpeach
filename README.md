@@ -1,6 +1,6 @@
 # phallicpeach
 
 
-Rhino pluging that will place a scale model of dickbutt in your model
+Rhino plugin that will place a dickbutt in your model
 
-just install the .RHP file in the bin folder and if you want to play with the code, which is not formatted at all is written in c#
+Just install the .RHP file in the bin folder, and if you want to play with the code, which is not formatted at all, it is written in c#
